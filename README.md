@@ -34,8 +34,8 @@ PC: 4000
 
 # IMAGENES
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
-![Actividad 1](/TodosRojos.png)
-![Actividad 2](/Grupos4.png)
-![Actividad 3](/Grupos2.png)
-![Actividad 4](/PatronLibre.png)
+![Actividad 1](/TodosRojos.PNG)
+![Actividad 2](/Grupos4.PNG)
+![Actividad 3](/Grupos2.PNG)
+![Actividad 4](/PatronLibre.PNG)
 
